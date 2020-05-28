@@ -1,0 +1,40 @@
+2020-05-26 15:40:35,962 [main] INFO ebanking - URL is opened
+2020-05-26 15:40:36,296 [main] INFO ebanking - Entered username
+2020-05-26 15:40:36,692 [main] INFO ebanking - Entered password
+2020-05-26 15:40:37,361 [main] INFO ebanking - Login Test passed
+2020-05-26 16:31:28,226 [main] INFO ebanking - URL is opened
+2020-05-26 16:31:28,426 [main] INFO ebanking - Entered username
+2020-05-26 16:31:28,679 [main] INFO ebanking - Entered password
+2020-05-26 16:31:29,436 [main] INFO ebanking - Login Test passed
+2020-05-26 16:49:25,473 [main] INFO ebanking Portal - URL is opened
+2020-05-26 16:49:25,624 [main] INFO ebanking Portal - Entered username
+2020-05-26 16:49:25,717 [main] INFO ebanking Portal - Entered password
+2020-05-26 16:49:26,850 [main] INFO ebanking Portal - Login Test passed
+2020-05-26 16:51:12,627 [main] INFO ebanking Portal - URL is opened
+2020-05-26 16:51:12,945 [main] INFO ebanking Portal - Entered username
+2020-05-26 16:51:13,031 [main] INFO ebanking Portal - Entered password
+2020-05-26 16:51:13,693 [main] INFO ebanking Portal - Login Test passed
+2020-05-26 17:04:24,411 [main] INFO ebanking Portal - URL is opened
+2020-05-26 17:04:24,558 [main] INFO ebanking Portal - Entered username
+2020-05-26 17:04:24,647 [main] INFO ebanking Portal - Entered password
+2020-05-26 17:04:25,359 [main] INFO ebanking Portal - Login Test passed
+2020-05-27 12:38:41,664 [main] INFO ebanking Portal - URL is opened
+2020-05-27 12:38:42,382 [main] INFO ebanking Portal - Entered username
+2020-05-27 12:38:43,107 [main] INFO ebanking Portal - Entered password
+2020-05-27 12:38:43,511 [main] INFO ebanking Portal - Login Test failed
+2020-05-27 12:43:48,269 [main] INFO ebanking Portal - URL is opened
+2020-05-27 12:43:48,962 [main] INFO ebanking Portal - Entered username
+2020-05-27 12:43:49,755 [main] INFO ebanking Portal - Entered password
+2020-05-27 12:43:50,786 [main] INFO ebanking Portal - Login Test passed
+2020-05-27 12:48:05,863 [main] INFO ebanking Portal - URL is opened
+2020-05-27 12:48:07,641 [main] INFO ebanking Portal - Entered username
+2020-05-27 12:48:07,776 [main] INFO ebanking Portal - Entered password
+2020-05-27 12:48:08,821 [main] INFO ebanking Portal - Login Test passed
+2020-05-27 12:56:37,805 [main] INFO ebanking Portal - URL is opened
+2020-05-27 12:56:38,408 [main] INFO ebanking Portal - Entered username
+2020-05-27 12:56:38,864 [main] INFO ebanking Portal - Entered password
+2020-05-27 12:56:40,647 [main] INFO ebanking Portal - Login Test failed
+2020-05-27 22:28:01,215 [main] INFO ebanking Portal - URL is opened
+2020-05-27 22:28:01,443 [main] INFO ebanking Portal - Entered username
+2020-05-27 22:28:01,834 [main] INFO ebanking Portal - Entered password
+2020-05-27 22:28:03,282 [main] INFO ebanking Portal - Login Test failed
